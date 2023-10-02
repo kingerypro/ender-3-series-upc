@@ -22,6 +22,6 @@ EnderMagic is not just an application; it's a game-changer for the 3D printing c
 
 Experience the future of 3D printing with EnderMagic. Whether you're a hobbyist, educator, or professional, our platform is designed to empower you.
 
-[[Link to Web Interface]](https://brantkingery.com/chatbot/ps/)
+(https://brantkingery.com/chatbot/ps/)
 
 EnderMagic: Making 3D printing a magical reality for all. Start your enchanting journey today! 🪄🌠
